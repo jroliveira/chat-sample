@@ -1,0 +1,17 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "Chat",
+
+  "homepage": "http://widget-chat.herokuapp.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junioro/chat-sample.git"
+  },
+
+  "dependencies": {
+	"underscore": "1.4.4",
+    "express": "3.4.4",
+	"swig": "1.3.2"
+  }
+}
